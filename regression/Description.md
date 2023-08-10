@@ -5,3 +5,4 @@ COVID Prediction
 - Testing data: HW1.test.csv
 - Demo code provided by course leader: 'HW1 Baseline.ipynb'
 - Code by our team: 'HW1_Team12.ipynb'
+- Our team ranked #1 out of 30 teams in model performance
